@@ -27,5 +27,5 @@
 
 ## Источники
 
-![Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
-![Функции активации нейросети](https://neurohive.io/ru/osnovy-data-science/activation-functions/)
+* [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+* [Функции активации нейросети](https://neurohive.io/ru/osnovy-data-science/activation-functions/)
